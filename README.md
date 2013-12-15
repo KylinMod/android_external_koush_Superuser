@@ -77,7 +77,7 @@ The su binary will built into Superuser/Superuser/libs/armeabi/su.
 
 
 
-## Building with AOSP, CyanogenMod, etc
+## Building with AOSP, CyanogenMod, KylinMod, etc
 
 ROM developers are welcome to distribute the official Superuser APK and binary that I publish. That will
 allow them to receive updates with Google Play. However, you can also build Superuser as part of your
@@ -105,7 +105,7 @@ SUPERUSER_PACKAGE := com.mypackagename.superuser
 You will not need to change the package name as described above. Superuser will simply go
 into the com.android.settings package.
 
-First, in a product makefile (like vendor/cm/config/common.mk), specify the following:
+First, in a product makefile (like vendor/kylin/config/common.mk), specify the following:
 
 ```
 SUPERUSER_EMBEDDED := true
