@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="none">இவற்றில் எதுவுமில்லை</string>
-  <string name="access_disabled">முடக்கப்பட்டது</string>
+  <string name="superuser">Superuser</string>
+  <string name="allow">Erlaben</string>
+  <string name="unknown_uid">Onbekannte UID: %s</string>
+  <string name="application_request">%s freet no Superuser-Accès.</string>
 </resources>

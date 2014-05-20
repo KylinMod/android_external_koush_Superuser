@@ -44,7 +44,7 @@
   <string name="request_timeout">Tiempu d\'espera</string>
   <string name="request_timeout_summary">Les solicitúes tienen un tiempu d\'espera y van refugase dempués de %s segundos</string>
   <string name="notifications">Notificaciones</string>
-  <string name="none">Darréu</string>
+  <string name="none">Nengún</string>
   <string name="notifications_summary">Va amosase una %s cuando a una aplicación se-y otorguen o refugen permisos de Superusuariu</string>
   <string name="enter_pin">Inxertar PIN</string>
   <string name="enter_new_pin">Inxertar PIN nuevu</string>
@@ -103,6 +103,6 @@
   <string name="dark">Escuru</string>
   <string name="pin_disabled">La proteición del Superusuariu ta desactivada</string>
   <string name="revoke_permission">Revocar el permisu de Superusuariu</string>
-  <string name="details">Detalláu</string>
+  <string name="details">Detalles</string>
   <string name="db_delete_error">El permisu de superusuariu nun pue revocase dende esta app.\nPor favor reanicia l\'app del Superusuariu y prueba otra vuelta.</string>
 </resources>
